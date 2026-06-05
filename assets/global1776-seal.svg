@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
+<defs><style>.gold{fill:#d4af37}.navy{fill:#081a3a}.line{stroke:#d4af37;stroke-width:14;fill:none}.thin{stroke:#d4af37;stroke-width:6;fill:none}.ivory{fill:#f2e7c9}</style></defs>
+<circle cx="500" cy="500" r="470" class="navy"/>
+<circle cx="500" cy="500" r="450" class="line"/>
+<circle cx="500" cy="500" r="370" class="thin"/>
+<text x="500" y="150" text-anchor="middle" font-family="Georgia,serif" font-size="72" class="ivory" letter-spacing="8">GLOBAL 1776</text>
+<text x="500" y="875" text-anchor="middle" font-family="Georgia,serif" font-size="38" class="gold" letter-spacing="3">DECLARATION OF HUMAN SOVEREIGNTY</text>
+<polygon points="500,205 525,265 590,265 538,304 558,365 500,328 442,365 462,304 410,265 475,265" class="gold"/>
+<path d="M300 300 H700 V670 Q500 780 300 670 Z" fill="#0b1d34" stroke="#d4af37" stroke-width="10"/>
+<path d="M500 300 V725 M300 485 H700" class="thin"/>
+<text x="400" y="420" text-anchor="middle" font-size="92">⚖</text>
+<text x="600" y="420" text-anchor="middle" font-size="92">🕊</text>
+<text x="400" y="620" text-anchor="middle" font-size="92">🔥</text>
+<text x="600" y="620" text-anchor="middle" font-size="92">🌳</text>
+<text x="500" y="705" text-anchor="middle" font-family="Georgia,serif" font-size="54" class="gold">1776</text>
+</svg>
