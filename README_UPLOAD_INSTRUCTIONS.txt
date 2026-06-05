@@ -1,8 +1,13 @@
-Upload these to GitHub repository root:
+GLOBAL 1776 V6 BELL LAUNCH PACKAGE
+
+Upload to GitHub root:
 index.html
 charter.html
 styles.css
 assets/
-BRAND_GUIDE.txt
+
+This version uses:
+assets/hero-liberty-bell.jpg
+assets/global1776-seal.png
 
 Keep the assets folder intact.

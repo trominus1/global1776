@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000"><circle cx="500" cy="500" r="460" fill="#07172F" stroke="#D4AF37" stroke-width="18"/><circle cx="500" cy="500" r="390" fill="none" stroke="#E7C66E" stroke-width="6"/><text x="500" y="135" text-anchor="middle" fill="#F5F1E8" font-family="Georgia,serif" font-size="78" font-weight="700">GLOBAL 1776</text><path d="M500 275 C430 395 440 455 500 490 C560 455 570 395 500 275Z" fill="#E7C66E" stroke="#D4AF37" stroke-width="8"/><path d="M470 470 h60 v230 h-60z" fill="#D4AF37"/><text x="500" y="770" text-anchor="middle" fill="#F5F1E8" font-family="Georgia,serif" font-size="82" font-weight="700">1776</text><text x="500" y="855" text-anchor="middle" fill="#E7C66E" font-family="Georgia,serif" font-size="36">A DECLARATION OF HUMAN SOVEREIGNTY</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900">
+<circle cx="450" cy="450" r="420" fill="#07172F" stroke="#D4AF37" stroke-width="16"/>
+<circle cx="450" cy="450" r="350" fill="none" stroke="#E7C66E" stroke-width="5"/>
+<text x="450" y="120" text-anchor="middle" fill="#F5F1E8" font-family="Georgia,serif" font-size="70" font-weight="700">GLOBAL 1776</text>
+<path d="M450 250 C390 355 400 410 450 455 C500 410 510 355 450 250Z" fill="#E7C66E" stroke="#D4AF37" stroke-width="7"/>
+<rect x="420" y="430" width="60" height="190" rx="16" fill="#D4AF37"/>
+<text x="450" y="685" text-anchor="middle" fill="#F5F1E8" font-family="Georgia,serif" font-size="70" font-weight="700">1776</text>
+<text x="450" y="760" text-anchor="middle" fill="#E7C66E" font-family="Georgia,serif" font-size="30">DECLARATION OF HUMAN SOVEREIGNTY</text>
+</svg>
