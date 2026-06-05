@@ -1,0 +1,31 @@
+GLOBAL 1776 V5 BRAND GUIDE
+
+Primary line:
+Rights Are Not Granted. They Are Inherent.
+
+Core brand:
+A modern declaration affirming that rights belong to human beings, not governments, corporations, institutions, algorithms, or machines.
+
+Colors:
+Midnight Navy: #07172F
+Deep Navy: #0B1F3A
+Liberty Gold: #D4AF37
+Pale Gold: #E7C66E
+Ivory: #F5F1E8
+Warning Red: #9F2635
+
+Included assets:
+assets/global1776-seal.png
+assets/global1776-primary-seal.png
+assets/global1776-icon.png
+assets/global1776-wordmark.png
+assets/global1776-wordmark.svg
+assets/global1776-wordmark-white.svg
+assets/global1776-seal.svg
+assets/global1776-hero-emblem.png
+assets/hero-liberty-bg.jpg
+assets/favicon.png
+assets/favicon.ico
+assets/apple-touch-icon.png
+assets/icon-192.png
+assets/social-avatar.png
